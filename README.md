@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musaf Hanif</h1>
-<h3 align="center">Full-stack Developer | Next.js, Node.js, Laravel, Django</h3>
+<h3 align="center">Full-stack Developer | Next.js, Node.js, Laravel, Python (Django, FastAPI)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theterrificm&label=Profile%20views&color=0e75b6&style=flat" alt="theterrificm" /> </p>
 
